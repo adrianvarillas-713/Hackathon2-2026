@@ -1,4 +1,13 @@
 *.pdf
-node_modules/
-dist/
+enunciado-frontend.md
+indicaciones-backend.md
+materiales/
+logs
+*.log
+node_modules
+dist
+dist-ssr
+.npm-cache
 .env
+.env.local
+*.local
